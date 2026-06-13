@@ -1,0 +1,2 @@
+Esta ruta sirve para confirmar el registro exitoso de un reporte comunitario (como baches, fallas de luz o quejas). Su función es asegurar al usuario que la información se guardó correctamente en la base de datos de la aplicación. Esto ayuda a mantener un control organizado y transparente de las incidencias reportadas por los vecinos.
+​

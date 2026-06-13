@@ -1,0 +1,15 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "description": "exit",
+  "keywords": [
+    "exit"
+  ],
+  "license": "ISC",
+  "author": "exit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exti"
+  }
+}
