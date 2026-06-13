@@ -1,0 +1,2 @@
+Guardar un registro con Git permite revertir errores y rastrear quién hizo qué en el código en cualquier momento.
+Además, facilita el trabajo en equipo sin borrar el progreso ajeno, asegurando un desarrollo organizado y transparente
