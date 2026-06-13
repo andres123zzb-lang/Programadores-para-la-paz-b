@@ -1,0 +1,1 @@
+Dominar la terminal te da velocidad y control absoluto sobre el proyecto, permitiéndote automatizar tareas y gestionar archivos sin depender de una interfaz gráfica. Además, es una habilidad indispensable para configurar entornos de desarrollo, usar Git y administrar servidores en prod
